@@ -1,0 +1,4 @@
+
+
+vk-api==11.9.9
+yandex-drive==66.0.2
